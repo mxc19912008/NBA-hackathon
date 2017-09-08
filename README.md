@@ -13,35 +13,4 @@ In this Bonus question, we take three steps to get the result of when a team is 
 Complete the result list by filling the teams that entered the Playoffs.
 Then we get the final result：
 
-Team	Date Eliminated
- Boston Celtics	 Playoffs
- Brooklyn Nets	 2017/3/8
- New York Knicks	 2017/3/29
- Philadelphia 76ers	 2017/3/28
- Toronto Raptors	 Playoffs
- Chicago Bulls	 Playoffs
- Cleveland Cavaliers	 Playoffs
- Detroit Pistons	 2017/4/6
- Indiana Pacers	 Playoffs
- Milwaukee Bucks	 Playoffs
- Atlanta Hawks	 Playoffs
- Charlotte Hornets	 2017/4/8
- Miami Heat	 2017/4/12
- Orlando Magic	 2017/3/28
- Washington Wizards	 Playoffs
- Denver Nuggets	 2017/4/9
- Minnesota Timberwolves	 2017/4/1
- Oklahoma City Thunder	 Playoffs
- Portland Trail Blazers	 Playoffs
- Utah Jazz	 Playoffs
- Golden State Warriors	 Playoffs
- LA Clippers	 Playoffs
- Los Angeles Lakers	 2017/3/17
- Phoenix Suns	 2017/3/21
- Sacramento Kings	 2017/3/29
- Dallas Mavericks	 2017/4/1
- Houston Rockets	 Playoffs
- Memphis Grizzlies	 Playoffs
- New Orleans Pelicans	 2017/4/4
- San Antonio Spurs	 Playoffs
-
+<img src="https://github.com/mxc19912008/readme_pics/raw/master/image/nba.png">  
